@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+    <ime>Niko</ime>
+    <prezime>Novak</prezime>
+    <JMBG>0246125458</JMBG>
+    <datumRodenja>2005-11-04</datumRodenja>
+    <godinaStudija>2</godinaStudija>
+    <studijskiProgram>Elektroničko poslovanje</studijskiProgram>
+    <adresa>
+        <ulica>Čret</ulica>
+        <grad>Krapinske Toplice</grad>
+        <postanskiBroj>49217</postanskiBroj>
+    </adresa>
+</student>
