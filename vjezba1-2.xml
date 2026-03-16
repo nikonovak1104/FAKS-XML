@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+    <ime>Niko</ime>
+    <prezime>Novak</prezime>
+    <JMBG>0246125458</JMBG>
+    <datumRodenja>2005-11-04</datumRodenja>
+    <godinaStudija>2</godinaStudija>
+    <kontakt>
+        <email>niko.novak1104@gmail.com</email>
+        <telefon>09329323412</telefon>
+    </kontakt>
+    <kolegiji>
+        <kolegij>
+            <nazivKolegija>Inovacije u informatici</nazivKolegija>
+            <imeProfesora>Marija Marijić</imeProfesora>
+            <ECTSbodovi>4</ECTSbodovi>
+        </kolegij>
+        <kolegij>
+            <nazivKolegija>Programiranje</nazivKolegija>
+            <imeProfesora>Luka Lukić</imeProfesora>
+            <ECTSbodovi>3</ECTSbodovi>
+        </kolegij>
+        <kolegij>
+            <nazivKolegija>Matematika</nazivKolegija>
+            <imeProfesora>Marko Markić</imeProfesora>
+            <ECTSbodovi>5</ECTSbodovi>
+        </kolegij>
+    </kolegiji>
+</student>
