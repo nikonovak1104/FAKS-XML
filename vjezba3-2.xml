@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Narudzba>
+    <Ime>Niko</Ime>
+    <Prezime>Novak</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Klokovec 19</Adresa>
+        <Grad>Krapinske Toplice</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <NaruceniArtikl>
+        <Naziv>kopacke</Naziv>
+        <Kolicina>1</Kolicina>
+        <Cijena>250 EUR</Cijena>
+    </NaruceniArtikl>
+</Narudzba>
