@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="M">
+    <Ime>Ivan</Ime>
+    <Prezime>Horvat</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Klokovec 19</Adresa>
+        <Grad>Krapinske Toplice</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <Kontakt>
+        <Mobitel>0987654321</Mobitel>
+        <KucniTelefon>022446688</KucniTelefon>
+        <Email>niko.novak@gmail.com</Email>
+    </Kontakt>
+</Osoba>
