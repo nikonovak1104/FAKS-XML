@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<narudzba>
+    <kupac>Niko Novak</kupac>
+    <datumNarudzbe>2026-04-20</datumNarudzbe>
+    <kolicina>20</kolicina>
+    <statusNarudzbe>poslana</statusNarudzbe>
+    <ukupanIznos valuta="EUR">399.99</ukupanIznos>
+</narudzba>
