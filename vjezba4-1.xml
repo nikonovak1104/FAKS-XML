@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podaci>
+    <ime>Niko</ime>
+    <cijena>29.99</cijena>
+    <godine>21</godine>
+    <aktivan>true</aktivan>
+    <datumRodenja>2005-11-04</datumRodenja>
+    <vrijemePocetka>14:10:00</vrijemePocetka>
+</podaci>
