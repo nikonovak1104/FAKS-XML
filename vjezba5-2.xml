@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 1. zadatak -->
+<!-- odabire prvi <BBB> element na svakoj razini -->
+
+<!-- 2. zadatak -->
+<!-- odabire prvi <BBB> element koji je dijete elementa <AAA> -->
+
+<!-- 3. zadatak -->
+<!-- odabire zadnji <BBB> element na svakoj razini -->
+
+<!-- 4. zadatak -->
+<!-- odabire bilo koji prvi element u <AAA> -->
+
+<!-- 5. zadatak -->
+<!-- odabire sve <BBB> elemente koji imaju atribute id i grupa -->
