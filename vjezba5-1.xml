@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 1. zadatak -->
+<!-- /Studenti/* -->
+
+<!-- 2. zadatak -->
+<!-- //Student/* -->
+
+<!-- 3. zadatak -->
+<!-- //Kolokvij[@*] -->
+
+<!-- 4. zadatak -->
+<!-- //@* -->
+
+<!-- 5. zadatak -->
+<!-- //Predmet//* -->
