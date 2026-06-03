@@ -31,19 +31,19 @@ $json = '{
       "registriran": false
     },
     {
-      "marka": "Audi",
-      "model": "A4",
-      "godina": 2021,
-      "boja": "siva",
-      "cijena": 32000,
+      "marka": "Citroen",
+      "model": "C4",
+      "godina": 2022,
+      "boja": "srebrna",
+      "cijena": 15000,
       "registriran": true
     },
     {
-      "marka": "Renault",
-      "model": "Clio",
-      "godina": 2019,
+      "marka": "Audi",
+      "model": "RS6",
+      "godina": 2025,
       "boja": "plava",
-      "cijena": 14500,
+      "cijena": 60000,
       "registriran": true
     }
   ]
@@ -172,11 +172,10 @@ $podatci = json_decode($json, true);
         }
         /* Automobili skuplji od 20.000 € */
         .skup-auto {
-            background: #fef3c7;
-            border: 3px solid #f59e0b;
+            border: 3px solid yellow;
         }
         .skup-auto h3 {
-            color: #b45309;
+            color: orange;
         }
         @media (max-width: 900px) {
             body {
